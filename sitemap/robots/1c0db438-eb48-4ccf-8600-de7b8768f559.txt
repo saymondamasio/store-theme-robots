@@ -1,4 +1,5 @@
 # Disallow all crawlers access to certain pages. 
+# wepink portugal
  User-agent: * 
 
  Disallow: /img/* 
@@ -11,4 +12,4 @@
  Disallow: /bindingteste/*
  Noindex: /buscapagina/* 
 
- Sitemap: https://www.lojavazia.com.br/sitemap.xml
+ Sitemap: www.wepinkportugal.com/sitemap.xml
